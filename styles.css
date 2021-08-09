@@ -1,0 +1,21 @@
+body {
+    padding: 10;
+    margin: 10;
+    background: linear-gradient(to right, yellow, orange);
+}
+
+h1 {
+    text-align: center;
+    font-family: "Arial Narrow";
+}
+
+h2 {
+    text-align: center;
+    font-family: "Arial Narrow";
+}
+
+.webgrid {
+    display: grid;
+    min-height: 100vh;
+    grid-template-columns: 70vw 30vw;
+}
