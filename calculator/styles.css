@@ -10,6 +10,12 @@ body {
     background: linear-gradient(to right, #00AAFF, #00FF6C)
 }
 
+.header-calc {
+    text-align: center;
+    color: red;
+    font-family: 'Ariel Narrow';
+}
+
 .calculator-grid {
     display: grid;
     justify-content: center;
