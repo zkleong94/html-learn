@@ -1,7 +1,7 @@
 body {
     padding: 10;
     margin: 10;
-    background: linear-gradient(to right, yellow, orange);
+    background: linear-gradient(to bottom, yellow, orange);
 }
 
 h1 {
@@ -17,5 +17,5 @@ h2 {
 .webgrid {
     display: grid;
     min-height: 100vh;
-    grid-template-columns: 70vw 30vw;
+    grid-template-columns: 30vw 40vw 30vw;
 }
